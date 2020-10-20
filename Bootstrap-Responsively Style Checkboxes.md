@@ -92,4 +92,3 @@ The same as the radio buttons but instead of col size 6 I gave them 4 so all of 
     </div>
     </div>
 `````
-
