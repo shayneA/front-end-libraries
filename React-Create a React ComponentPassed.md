@@ -1,4 +1,4 @@
-## React: Create a React ComponentPassed
+## React: Create a React Component Passed
 
 The other way to define a React component is with the ES6 `class` syntax. In the following example, `Kitten` extends `React.Component`:
 
