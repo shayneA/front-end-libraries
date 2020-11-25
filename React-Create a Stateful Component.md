@@ -28,7 +28,7 @@ class StatefulComponent extends React.Component {
     super(props);
     // Only change code below this line
     this.state = {
-      name: "black the ripper"
+      name: "Ital-Samson"
     }
     // Only change code above this line
   }
